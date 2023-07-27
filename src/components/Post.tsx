@@ -85,4 +85,5 @@ const Post: FC<PostProps> = ({
     </div>
   );
 };
+
 export default Post;
